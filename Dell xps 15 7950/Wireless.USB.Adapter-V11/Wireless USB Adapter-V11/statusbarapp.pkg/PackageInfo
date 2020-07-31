@@ -1,0 +1,12 @@
+
+<pkg-info format-version="2" identifier="com.109Driver.wirelessUsbAdapterv11.statusbarapp.pkg" version="1.0" install-location="/Library/Application Support/WLAN/" auth="root" postinstall-action="restart">
+    <payload installKBytes="7228" numberOfFiles="83"/>
+    <scripts>
+        <preinstall file="./preinstall"/>
+        <postinstall file="./postinstall"/>
+    </scripts>
+    <bundle id="com.realtek.utility.statusbar" CFBundleIdentifier="com.realtek.utility.statusbar" path="./StatusBarApp.app" CFBundleVersion="1"/>
+    <bundle-version>
+        <bundle id="com.realtek.utility.statusbar"/>
+    </bundle-version>
+</pkg-info>

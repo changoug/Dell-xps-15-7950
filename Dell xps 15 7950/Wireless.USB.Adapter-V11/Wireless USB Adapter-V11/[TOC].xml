@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xar>
+ <toc>
+  <creation-time>2020-03-07T11:17:14</creation-time>
+  <checksum style="sha1">
+   <offset>0</offset>
+   <size>20</size>
+  </checksum>
+  <file id="37">
+   <ctime>2020-03-07T11:16:17Z</ctime>
+   <mtime>2020-03-07T11:16:17Z</mtime>
+   <atime>2020-03-07T11:16:15Z</atime>
+   <group>wheel</group>
+   <gid>0</gid>
+   <user>chris</user>
+   <uid>501</uid>
+   <mode>0755</mode>
+   <deviceno>16777240</deviceno>
+   <inode>12887201103</inode>
+   <type>directory</type>
+   <name>statusbarapp.pkg</name>
+   <file id="38">
+    <data>
+     <length>313</length>
+     <offset>11951917</offset>
+     <size>629</size>
+     <encoding style="application/x-gzip"/>
+     <archived-checksum style="sha1">9b3e3ea57563e2171577bf095ad8a545a1074927</archived-checksum>
+     <extracted-checksum style="sha1">4ebd0d4eef2db6ff65221dfb52f8798babecedc5</extracted-checksum>
+    </data>
+    <FinderCreateTime>
+     <nanoseconds>392795982</nanoseconds>
+     <time>2020-03-07T11:16:17</time>
+    </FinderCreateTime>
+    <ctime>2020-03-07T11:16:17Z</ctime>
+    <mtime>2020-03-07T11:16:17Z</mtime>
+    <atime>2020-03-07T11:16:17Z</atime>
+    <group>wheel</group>
+    <gid>0</gid>
+    <user>chris</user>
+    <uid>501</uid>
+    <mode>0644</mode>
+    <deviceno>16777240</deviceno>
+    <inode>12887201341</inode>
+    <type>file</type>
+    <name>PackageInfo</name>
+   </file>
+   <file id="39">
+    <data>
+     <length>3292</length>
+     <offset>11952230</offset>
+     <size>39600</size>
+     <encoding style="application/x-gzip"/>
+     <archived-checksum style="sha1">aeb5e03fa2313a75c8df5dc711adc1ebb6b39b01</archived-checksum>
+     <extracted-checksum style="sha1">d1d29b2afb02f7f807087e77fbd4df914bfbc568</extracted-checksum>
+    </data>
+    <FinderCreateTime>
+     <nanoseconds>429953459</nanoseconds>
+     <time>2020-03-07T11:16:16</time>
+    </FinderCreateTime>
+    <ctime>2020-03-07T11:16:17Z</ctime>
+    <mtime>2020-03-07T11:16:16Z</mtime>
+    <atime>2020-03-07T11:16:16Z</atime>
+    <group>wheel</group>
+    <gid>0</gid>
+    <user>chris</user>
+    <uid>501</uid>
+    <mode>0644</mode>
+    <deviceno>16777240</deviceno>
+    <inode>12887201339</inode>
+    <type>file</type>
+    <name>Bom</name>
+   </file>
+   <file id="40">
+    <data>
+     <length>2960837</length>
+     <encoding style="application/octet-stream"/>
+     <offset>11955522</offset>
+     <size>2960837</size>
+     <archived-checksum style="sha1">97680866c217bdaaf0b98bbf9657d4bb177a94b0</archived-checksum>
+     <extracted-checksum style="sha1">97680866c217bdaaf0b98bbf9657d4bb177a94b0</extracted-checksum>
+    </data>
+    <FinderCreateTime>
+     <nanoseconds>489656368</nanoseconds>
+     <time>2020-03-07T11:16:16</time>
+    </FinderCreateTime>
+    <ctime>2020-03-07T11:16:17Z</ctime>
+    <mtime>2020-03-07T11:16:16Z</mtime>
+    <atime>2020-03-07T11:16:16Z</atime>
+    <group>wheel</group>
+    <gid>0</gid>
+    <user>chris</user>
+    <uid>501</uid>
+    <mode>0644</mode>
+    <deviceno>16777240</deviceno>
+    <inode>12887201340</inode>
+    <type>file</type>
+    <name>Payload</name>
+   </file>
+   <file id="41">
+    <data>
+     <length>1551</length>
+     <encoding style="application/octet-stream"/>
+     <offset>14916359</offset>
+     <size>1551</size>
+     <archived-checksum style="sha1">0fd69653ac31050cdc0ce875428cddf1abe88ace</archived-checksum>
+     <extracted-checksum style="sha1">0fd69653ac31050cdc0ce875428cddf1abe88ace</extracted-checksum>
+    </data>
+    <FinderCreateTime>
+     <nanoseconds>588362233</nanoseconds>
+     <time>2020-03-07T11:16:15</time>
+    </FinderCreateTime>
+    <ctime>2020-03-07T11:16:17Z</ctime>
+    <mtime>2020-03-07T11:16:15Z</mtime>
+    <atime>2020-03-07T11:16:15Z</atime>
+    <group>wheel</group>
+    <gid>0</gid>
+    <user>chris</user>
+    <uid>501</uid>
+    <mode>0644</mode>
+    <deviceno>16777240</deviceno>
+    <inode>12887201101</inode>
+    <type>file</type>
+    <name>Scripts</name>
+   </file>
+  </file>
+  <file id="33">
+   <ctime>2020-03-07T11:16:15Z</ctime>
+   <mtime>2020-03-07T11:16:15Z</mtime>
+   <atime>2020-03-07T11:16:12Z</atime>
+   <group>wheel</group>
+   <gid>0</gid>
+   <user>chris</user>
+   <uid>501</uid>
+   <mode>0755</mode>
+   <deviceno>16777240</deviceno>
+   <inode>12887200673</inode>
+   <type>directory</type>
+   <name>old.pkg</name>
+   <file id="34">
+    <data>
+     <length>354</length>
+     <offset>5459041</offset>
+     <size>1193</size>
+     <encoding style="application/x-gzip"/>
+     <archived-checksum style="sha1">b36c1794870e7000013b0a0a7572981c53446ca4</archived-checksum>
+     <extracted-checksum style="sha1">efcdb770164dcc36b6a24fb077f793df37d2ea2f</extracted-checksum>
+    </data>
+    <FinderCreateTime>
+     <nanoseconds>17105379</nanoseconds>
+     <time>2020-03-07T11:16:15</time>
+    </FinderCreateTime>
+    <ctime>2020-03-07T11:16:15Z</ctime>
+    <mtime>2020-03-07T11:16:15Z</mtime>
+    <atime>2020-03-07T11:16:15Z</atime>
+    <group>wheel</group>
+    <gid>0</gid>
+    <user>chris</user>
+    <uid>501</uid>
+    <mode>0644</mode>
+    <deviceno>16777240</deviceno>
+    <inode>12887200953</inode>
+    <type>file</type>
+    <name>PackageInfo</name>
+   </file>
+   <file id="35">
+    <data>
+     <length>4118</length>
+     <offset>5459395</offset>
+     <size>40917</size>
+     <encoding style="application/x-gzip"/>
+     <archived-checksum style="sha1">36fff98ecb03283cf90d71a2e3d8d3893c6ddf77</archived-checksum>
+     <extracted-checksum style="sha1">238046aee2d74adf2e167ac6c2a11ed520c33437</extracted-checksum>
+    </data>
+    <FinderCreateTime>
+     <nanoseconds>52979324</nanoseconds>
+     <time>2020-03-07T11:16:13</time>
+    </FinderCreateTime>
+    <ctime>2020-03-07T11:16:15Z</ctime>
+    <mtime>2020-03-07T11:16:13Z</mtime>
+    <atime>2020-03-07T11:16:13Z</atime>
+    <group>wheel</group>
+    <gid>0</gid>
+    <user>chris</user>
+    <uid>501</uid>
+    <mode>0644</mode>
+    <deviceno>16777240</deviceno>
+    <inode>12887200951</inode>
+    <type>file</type>
+    <name>Bom</name>
+   </file>
+   <file id="36">
+    <data>
+     <length>6488404</length>
+     <encoding style="application/octet-stream"/>
+     <offset>5463513</offset>
+     <size>6488404</size>
+     <archived-checksum style="sha1">8daedb78f9e131e9c4067f53c6fe75f002181d0c</archived-checksum>
+     <extracted-checksum style="sha1">8daedb78f9e131e9c4067f53c6fe75f002181d0c</extracted-checksum>
+    </data>
+    <FinderCreateTime>
+     <nanoseconds>180807333</nanoseconds>
+     <time>2020-03-07T11:16:13</time>
+    </FinderCreateTime>
+    <ctime>2020-03-07T11:16:15Z</ctime>
+    <mtime>2020-03-07T11:16:14Z</mtime>
+    <atime>2020-03-07T11:16:13Z</atime>
+    <group>wheel</group>
+    <gid>0</gid>
+    <user>chris</user>
+    <uid>501</uid>
+    <mode>0644</mode>
+    <deviceno>16777240</deviceno>
+    <inode>12887200952</inode>
+    <type>file</type>
+    <name>Payload</name>
+   </file>
+  </file>
+  <file id="28">
+   <ctime>2020-03-07T11:16:11Z</ctime>
+   <mtime>2020-03-07T11:16:11Z</mtime>
+   <atime>2020-03-07T11:16:09Z</atime>
+   <group>wheel</group>
+   <gid>0</gid>
+   <user>chris</user>
+   <uid>501</uid>
+   <mode>0755</mode>
+   <deviceno>16777240</deviceno>
+   <inode>12887200453</inode>
+   <type>directory</type>
+   <name>drivers.pkg</name>
+   <file id="29">
+    <data>
+     <length>342</length>
+     <offset>942523</offset>
+     <size>1020</size>
+     <encoding style="application/x-gzip"/>
+     <archived-checksum style="sha1">a8f441185f6bce9ae31051487b3556d43c5754f7</archived-checksum>
+     <extracted-checksum style="sha1">0e162ce2e66897ed831b0f741e47973ddf9bb6d9</extracted-checksum>
+    </data>
+    <FinderCreateTime>
+     <nanoseconds>784732070</nanoseconds>
+     <time>2020-03-07T11:16:11</time>
+    </FinderCreateTime>
+    <ctime>2020-03-07T11:16:11Z</ctime>
+    <mtime>2020-03-07T11:16:11Z</mtime>
+    <atime>2020-03-07T11:16:11Z</atime>
+    <group>wheel</group>
+    <gid>0</gid>
+    <user>chris</user>
+    <uid>501</uid>
+    <mode>0644</mode>
+    <deviceno>16777240</deviceno>
+    <inode>12887200528</inode>
+    <type>file</type>
+    <name>PackageInfo</name>
+   </file>
+   <file id="30">
+    <data>
+     <length>1180</length>
+     <offset>942865</offset>
+     <size>36227</size>
+     <encoding style="application/x-gzip"/>
+     <archived-checksum style="sha1">b073aae1914ec6654d0a527ad844b2d23c5eee24</archived-checksum>
+     <extracted-checksum style="sha1">122d218d938e4718d0cb70ba5c21ec4a0567b724</extracted-checksum>
+    </data>
+    <FinderCreateTime>
+     <nanoseconds>821087968</nanoseconds>
+     <time>2020-03-07T11:16:09</time>
+    </FinderCreateTime>
+    <ctime>2020-03-07T11:16:11Z</ctime>
+    <mtime>2020-03-07T11:16:09Z</mtime>
+    <atime>2020-03-07T11:16:09Z</atime>
+    <group>wheel</group>
+    <gid>0</gid>
+    <user>chris</user>
+    <uid>501</uid>
+    <mode>0644</mode>
+    <deviceno>16777240</deviceno>
+    <inode>12887200526</inode>
+    <type>file</type>
+    <name>Bom</name>
+   </file>
+   <file id="31">
+    <data>
+     <length>4512940</length>
+     <encoding style="application/octet-stream"/>
+     <offset>944045</offset>
+     <size>4512940</size>
+     <archived-checksum style="sha1">725275dc29407f6443b5634dc7c43f2fc9f3fb04</archived-checksum>
+     <extracted-checksum style="sha1">725275dc29407f6443b5634dc7c43f2fc9f3fb04</extracted-checksum>
+    </data>
+    <FinderCreateTime>
+     <nanoseconds>912071623</nanoseconds>
+     <time>2020-03-07T11:16:09</time>
+    </FinderCreateTime>
+    <ctime>2020-03-07T11:16:11Z</ctime>
+    <mtime>2020-03-07T11:16:10Z</mtime>
+    <atime>2020-03-07T11:16:09Z</atime>
+    <group>wheel</group>
+    <gid>0</gid>
+    <user>chris</user>
+    <uid>501</uid>
+    <mode>0644</mode>
+    <deviceno>16777240</deviceno>
+    <inode>12887200527</inode>
+    <type>file</type>
+    <name>Payload</name>
+   </file>
+   <file id="32">
+    <data>
+     <length>2056</length>
+     <encoding style="application/octet-stream"/>
+     <offset>5456985</offset>
+     <size>2056</size>
+     <archived-checksum style="sha1">f337aa5f46f4222fccb82fdfc9b2934bdc2cda3d</archived-checksum>
+     <extracted-checksum style="sha1">f337aa5f46f4222fccb82fdfc9b2934bdc2cda3d</extracted-checksum>
+    </data>
+    <FinderCreateTime>
+     <nanoseconds>436269432</nanoseconds>
+     <time>2020-03-07T11:16:09</time>
+    </FinderCreateTime>
+    <ctime>2020-03-07T11:16:11Z</ctime>
+    <mtime>2020-03-07T11:16:09Z</mtime>
+    <atime>2020-03-07T11:16:09Z</atime>
+    <group>wheel</group>
+    <gid>0</gid>
+    <user>chris</user>
+    <uid>501</uid>
+    <mode>0644</mode>
+    <deviceno>16777240</deviceno>
+    <inode>12887200451</inode>
+    <type>file</type>
+    <name>Scripts</name>
+   </file>
+  </file>
+  <file id="23">
+   <ctime>2020-03-07T11:16:08Z</ctime>
+   <mtime>2020-03-07T11:16:08Z</mtime>
+   <atime>2020-03-07T11:16:07Z</atime>
+   <group>wheel</group>
+   <gid>0</gid>
+   <user>chris</user>
+   <uid>501</uid>
+   <mode>0755</mode>
+   <deviceno>16777240</deviceno>
+   <inode>12887200290</inode>
+   <type>directory</type>
+   <name>uninstall.pkg</name>
+   <file id="24">
+    <data>
+     <length>208</length>
+     <offset>939821</offset>
+     <size>347</size>
+     <encoding style="application/x-gzip"/>
+     <archived-checksum style="sha1">c409c0f3ee68782fb84ebbed49b4c7473315d329</archived-checksum>
+     <extracted-checksum style="sha1">cf5b91d2ba1ff066971677daf286444f17886118</extracted-checksum>
+    </data>
+    <FinderCreateTime>
+     <nanoseconds>853953892</nanoseconds>
+     <time>2020-03-07T11:16:08</time>
+    </FinderCreateTime>
+    <ctime>2020-03-07T11:16:08Z</ctime>
+    <mtime>2020-03-07T11:16:08Z</mtime>
+    <atime>2020-03-07T11:16:08Z</atime>
+    <group>wheel</group>
+    <gid>0</gid>
+    <user>chris</user>
+    <uid>501</uid>
+    <mode>0644</mode>
+    <deviceno>16777240</deviceno>
+    <inode>12887200303</inode>
+    <type>file</type>
+    <name>PackageInfo</name>
+   </file>
+   <file id="25">
+    <data>
+     <length>354</length>
+     <offset>940029</offset>
+     <size>35046</size>
+     <encoding style="application/x-gzip"/>
+     <archived-checksum style="sha1">9d74152c04bcd9ff7cefcf3fcfef94e0ebc9ffff</archived-checksum>
+     <extracted-checksum style="sha1">64b2cc10ac202f2bc6d52381b1f18f12575557c1</extracted-checksum>
+    </data>
+    <FinderCreateTime>
+     <nanoseconds>894071869</nanoseconds>
+     <time>2020-03-07T11:16:07</time>
+    </FinderCreateTime>
+    <ctime>2020-03-07T11:16:08Z</ctime>
+    <mtime>2020-03-07T11:16:07Z</mtime>
+    <atime>2020-03-07T11:16:07Z</atime>
+    <group>wheel</group>
+    <gid>0</gid>
+    <user>chris</user>
+    <uid>501</uid>
+    <mode>0644</mode>
+    <deviceno>16777240</deviceno>
+    <inode>12887200301</inode>
+    <type>file</type>
+    <name>Bom</name>
+   </file>
+   <file id="26">
+    <data>
+     <length>88</length>
+     <encoding style="application/octet-stream"/>
+     <offset>940383</offset>
+     <size>88</size>
+     <archived-checksum style="sha1">9b4c7ba2ef3b41d06e7d8f552bc6b1258ea78cdc</archived-checksum>
+     <extracted-checksum style="sha1">9b4c7ba2ef3b41d06e7d8f552bc6b1258ea78cdc</extracted-checksum>
+    </data>
+    <FinderCreateTime>
+     <nanoseconds>906580608</nanoseconds>
+     <time>2020-03-07T11:16:07</time>
+    </FinderCreateTime>
+    <ctime>2020-03-07T11:16:08Z</ctime>
+    <mtime>2020-03-07T11:16:07Z</mtime>
+    <atime>2020-03-07T11:16:07Z</atime>
+    <group>wheel</group>
+    <gid>0</gid>
+    <user>chris</user>
+    <uid>501</uid>
+    <mode>0644</mode>
+    <deviceno>16777240</deviceno>
+    <inode>12887200302</inode>
+    <type>file</type>
+    <name>Payload</name>
+   </file>
+   <file id="27">
+    <data>
+     <length>2052</length>
+     <encoding style="application/octet-stream"/>
+     <offset>940471</offset>
+     <size>2052</size>
+     <archived-checksum style="sha1">4c196bae20ff11b6c85bb2e939dd352556f11a4c</archived-checksum>
+     <extracted-checksum style="sha1">4c196bae20ff11b6c85bb2e939dd352556f11a4c</extracted-checksum>
+    </data>
+    <FinderCreateTime>
+     <nanoseconds>750462422</nanoseconds>
+     <time>2020-03-07T11:16:07</time>
+    </FinderCreateTime>
+    <ctime>2020-03-07T11:16:08Z</ctime>
+    <mtime>2020-03-07T11:16:07Z</mtime>
+    <atime>2020-03-07T11:16:07Z</atime>
+    <group>wheel</group>
+    <gid>0</gid>
+    <user>chris</user>
+    <uid>501</uid>
+    <mode>0644</mode>
+    <deviceno>16777240</deviceno>
+    <inode>12887200287</inode>
+    <type>file</type>
+    <name>Scripts</name>
+   </file>
+  </file>
+  <file id="22">
+   <data>
+    <length>894</length>
+    <offset>938927</offset>
+    <size>2514</size>
+    <encoding style="application/x-bzip2"/>
+    <extracted-checksum style="sha1">22d17306768905d1cc1899e3e34c3135032a6428</extracted-checksum>
+    <archived-checksum style="sha1">0dbdf208b08557846f2c2048d8ee712b638f1283</archived-checksum>
+   </data>
+   <ea id="2">
+    <length>172</length>
+    <offset>938755</offset>
+    <size>89</size>
+    <encoding style="application/x-bzip2"/>
+    <extracted-checksum style="sha1">7e3a537756d286001f6bf374af67ec2ac2784017</extracted-checksum>
+    <archived-checksum style="sha1">78c6a3576a2479e821606d758e938433d5b4107c</archived-checksum>
+    <name>com.apple.metadata:kMDLabel_hpq7c2cgrj7eghzxyyawr247wa</name>
+   </ea>
+   <ea id="1">
+    <length>62</length>
+    <offset>938693</offset>
+    <size>16</size>
+    <encoding style="application/x-bzip2"/>
+    <extracted-checksum style="sha1">d13a6e5fc1c26abab8f6f60c34cfd934cd20a2a2</extracted-checksum>
+    <archived-checksum style="sha1">f178ea04fa8c6cb6c5f4f1d087416a239ce8b5f6</archived-checksum>
+    <name>com.apple.lastuseddate#PS</name>
+   </ea>
+   <ea id="0">
+    <length>53</length>
+    <offset>938640</offset>
+    <size>15</size>
+    <encoding style="application/x-bzip2"/>
+    <extracted-checksum style="sha1">34bb265cb6732969f269ccc90fea5d662e9e0ea5</extracted-checksum>
+    <archived-checksum style="sha1">ee498161927c392f64ffda0bedd1f0711893793b</archived-checksum>
+    <name>com.apple.TextEncoding</name>
+   </ea>
+   <FinderCreateTime>
+    <nanoseconds>0</nanoseconds>
+    <time>2020-03-07T11:16:17</time>
+   </FinderCreateTime>
+   <ctime>2020-03-07T11:17:07Z</ctime>
+   <mtime>2020-03-07T11:17:07Z</mtime>
+   <atime>2020-03-07T11:17:10Z</atime>
+   <group>staff</group>
+   <gid>20</gid>
+   <user>chris</user>
+   <uid>501</uid>
+   <mode>0644</mode>
+   <deviceno>16777240</deviceno>
+   <inode>12887201563</inode>
+   <type>file</type>
+   <name>Distribution</name>
+  </file>
+  <file id="1">
+   <FinderCreateTime>
+    <nanoseconds>411779753</nanoseconds>
+    <time>2020-03-07T11:16:17</time>
+   </FinderCreateTime>
+   <ctime>2020-03-07T11:16:17Z</ctime>
+   <mtime>2020-03-07T11:16:17Z</mtime>
+   <atime>2020-03-07T11:16:17Z</atime>
+   <group>wheel</group>
+   <gid>0</gid>
+   <user>chris</user>
+   <uid>501</uid>
+   <mode>0755</mode>
+   <deviceno>16777240</deviceno>
+   <inode>12887201343</inode>
+   <type>directory</type>
+   <name>Resources</name>
+   <file id="2">
+    <FinderCreateTime>
+     <nanoseconds>412178211</nanoseconds>
+     <time>2020-03-07T11:16:17</time>
+    </FinderCreateTime>
+    <ctime>2020-03-07T11:16:17Z</ctime>
+    <mtime>2020-03-07T11:16:17Z</mtime>
+    <atime>2020-03-07T11:16:17Z</atime>
+    <group>wheel</group>
+    <gid>0</gid>
+    <user>chris</user>
+    <uid>501</uid>
+    <mode>0755</mode>
+    <deviceno>16777240</deviceno>
+    <inode>12887201344</inode>
+    <type>directory</type>
+    <name>en.lproj</name>
+    <file id="3">
+     <data>
+      <length>212284</length>
+      <offset>20</offset>
+      <size>216463</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="sha1">fd1a93beda7963415f5ca204850c284bacdfa437</archived-checksum>
+      <extracted-checksum style="sha1">d6c7c6d70e2eb06b07d986d86508fed5678b4ed3</extracted-checksum>
+     </data>
+     <ea id="2">
+      <length>28</length>
+      <offset>212361</offset>
+      <size>22</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="sha1">6623045e26adbe46df0fac19027e6a4631c36792</archived-checksum>
+      <extracted-checksum style="sha1">8fdfaa43087c84a6576d70bb87d66ea8fd25d871</extracted-checksum>
+      <name>com.apple.quarantine</name>
+     </ea>
+     <ea id="1">
+      <length>29</length>
+      <offset>40</offset>
+      <size>42</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="sha1">c85945359e43145335a9fe6e516487c69d9da081</archived-checksum>
+      <extracted-checksum style="sha1">44668804d8d14412ba09d3625109dfacb70e5476</extracted-checksum>
+      <name>com.apple.metadata:_kMDItemUserTags</name>
+     </ea>
+     <ea id="0">
+      <length>20</length>
+      <offset>20</offset>
+      <size>16</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="sha1">e975f0acfa3460b433b576d9ae5521e1e1b09f4e</archived-checksum>
+      <extracted-checksum style="sha1">f59d24a30a63ccdaae0470f8e7bffbd504f658c9</extracted-checksum>
+      <name>com.apple.lastuseddate#PS</name>
+     </ea>
+     <FinderCreateTime>
+      <nanoseconds>795651178</nanoseconds>
+      <time>2019-03-13T02:56:30</time>
+     </FinderCreateTime>
+     <ctime>2020-03-07T11:16:17Z</ctime>
+     <mtime>2019-03-13T03:48:18Z</mtime>
+     <atime>2020-03-07T11:16:17Z</atime>
+     <group>wheel</group>
+     <gid>0</gid>
+     <user>chris</user>
+     <uid>501</uid>
+     <mode>0644</mode>
+     <deviceno>16777240</deviceno>
+     <inode>12887201345</inode>
+     <type>file</type>
+     <name>background</name>
+    </file>
+    <file id="4">
+     <ea id="1">
+      <length>100</length>
+      <offset>212481</offset>
+      <size>89</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="sha1">1b3eb95150059058289944f092318a391e803a58</archived-checksum>
+      <extracted-checksum style="sha1">78d30e6f38b62fb7666e6fd8c409402d7d4520fe</extracted-checksum>
+      <name>com.apple.metadata:kMDLabel_fmwrblgxijjpd6gu2wqi43xehu</name>
+     </ea>
+     <ea id="0">
+      <length>20</length>
+      <offset>212381</offset>
+      <size>16</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="sha1">90ed2f7458202ab27e717a77e3b2a7a5107d9f96</archived-checksum>
+      <extracted-checksum style="sha1">c617870675fadbed858c9ccb983a323a11df025c</extracted-checksum>
+      <name>com.apple.lastuseddate#PS</name>
+     </ea>
+     <FinderCreateTime>
+      <nanoseconds>0</nanoseconds>
+      <time>2019-02-24T02:33:25</time>
+     </FinderCreateTime>
+     <ctime>2020-03-07T11:16:17Z</ctime>
+     <mtime>2019-10-17T01:44:12Z</mtime>
+     <atime>2019-10-17T01:44:12Z</atime>
+     <group>staff</group>
+     <gid>20</gid>
+     <user>chris</user>
+     <uid>501</uid>
+     <mode>0755</mode>
+     <deviceno>16777240</deviceno>
+     <inode>12887201346</inode>
+     <type>directory</type>
+     <name>ReadMe.rtfd</name>
+     <file id="5">
+      <data>
+       <length>952</length>
+       <offset>212501</offset>
+       <size>2484</size>
+       <encoding style="application/x-gzip"/>
+       <archived-checksum style="sha1">48cc0ffc52f51c4219de8c96b680d7396716033c</archived-checksum>
+       <extracted-checksum style="sha1">94fe1a120f531f46e665a6df9903948bd0d45225</extracted-checksum>
+      </data>
+      <ea id="0">
+       <length>31</length>
+       <offset>213453</offset>
+       <size>23</size>
+       <encoding style="application/x-gzip"/>
+       <archived-checksum style="sha1">ec0e2cd3dba9fdc6341dffbb979839bf758d2801</archived-checksum>
+       <extracted-checksum style="sha1">b2d9160f16835cefeba86612d4e1c581aa11389b</extracted-checksum>
+       <name>com.apple.quarantine</name>
+      </ea>
+      <FinderCreateTime>
+       <nanoseconds>435996032</nanoseconds>
+       <time>2019-10-17T01:44:12</time>
+      </FinderCreateTime>
+      <ctime>2020-03-07T11:16:17Z</ctime>
+      <mtime>2019-10-17T01:44:12Z</mtime>
+      <atime>2020-03-07T11:16:17Z</atime>
+      <group>staff</group>
+      <gid>20</gid>
+      <user>chris</user>
+      <uid>501</uid>
+      <mode>0644</mode>
+      <deviceno>16777240</deviceno>
+      <inode>12887201350</inode>
+      <type>file</type>
+      <name>TXT.rtf</name>
+     </file>
+     <file id="6">
+      <data>
+       <length>47056</length>
+       <offset>213484</offset>
+       <size>47776</size>
+       <encoding style="application/x-gzip"/>
+       <archived-checksum style="sha1">4ead7e8d85383165aedd68d891d581b01558260d</archived-checksum>
+       <extracted-checksum style="sha1">beb914783e97726a6050965debf700298fd44154</extracted-checksum>
+      </data>
+      <FinderCreateTime>
+       <nanoseconds>0</nanoseconds>
+       <time>2019-02-24T02:33:25</time>
+      </FinderCreateTime>
+      <ctime>2020-03-07T11:16:17Z</ctime>
+      <mtime>2018-03-21T03:56:31Z</mtime>
+      <atime>2020-03-07T11:16:17Z</atime>
+      <group>staff</group>
+      <gid>20</gid>
+      <user>chris</user>
+      <uid>501</uid>
+      <mode>0644</mode>
+      <deviceno>16777240</deviceno>
+      <inode>12887201349</inode>
+      <type>file</type>
+      <name>2.png</name>
+     </file>
+     <file id="7">
+      <data>
+       <length>26629</length>
+       <offset>260540</offset>
+       <size>26797</size>
+       <encoding style="application/x-gzip"/>
+       <archived-checksum style="sha1">b58f15c95ce88740058e738a74c0b56d36be07a9</archived-checksum>
+       <extracted-checksum style="sha1">d0f2139f1396a8ac01479107ba440ff2fc591817</extracted-checksum>
+      </data>
+      <FinderCreateTime>
+       <nanoseconds>0</nanoseconds>
+       <time>2019-02-24T02:33:25</time>
+      </FinderCreateTime>
+      <ctime>2020-03-07T11:16:17Z</ctime>
+      <mtime>2018-03-21T03:49:41Z</mtime>
+      <atime>2020-03-07T11:16:17Z</atime>
+      <group>staff</group>
+      <gid>20</gid>
+      <user>chris</user>
+      <uid>501</uid>
+      <mode>0644</mode>
+      <deviceno>16777240</deviceno>
+      <inode>12887201348</inode>
+      <type>file</type>
+      <name>3.png</name>
+     </file>
+     <file id="8">
+      <data>
+       <length>176272</length>
+       <offset>287169</offset>
+       <size>176387</size>
+       <encoding style="application/x-gzip"/>
+       <archived-checksum style="sha1">46f1978aa4207cdabdc8ceee160ba7ccb6696144</archived-checksum>
+       <extracted-checksum style="sha1">cb925d6976df8693c4daf7dd3ba722421adb4124</extracted-checksum>
+      </data>
+      <FinderCreateTime>
+       <nanoseconds>0</nanoseconds>
+       <time>2019-02-24T02:33:25</time>
+      </FinderCreateTime>
+      <ctime>2020-03-07T11:16:17Z</ctime>
+      <mtime>2019-02-23T22:29:59Z</mtime>
+      <atime>2020-03-07T11:16:17Z</atime>
+      <group>staff</group>
+      <gid>20</gid>
+      <user>chris</user>
+      <uid>501</uid>
+      <mode>0644</mode>
+      <deviceno>16777240</deviceno>
+      <inode>12887201347</inode>
+      <type>file</type>
+      <name>1.png</name>
+     </file>
+    </file>
+    <file id="9">
+     <ea id="0">
+      <length>20</length>
+      <offset>463441</offset>
+      <size>16</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="sha1">c91f0b99b136480133f51f307e7691366b9644b6</archived-checksum>
+      <extracted-checksum style="sha1">e07d0434b35e74bc6ee4c88aa2f9bb114a847cd3</extracted-checksum>
+      <name>com.apple.lastuseddate#PS</name>
+     </ea>
+     <FinderCreateTime>
+      <nanoseconds>0</nanoseconds>
+      <time>2019-02-24T02:33:25</time>
+     </FinderCreateTime>
+     <ctime>2020-03-07T11:16:17Z</ctime>
+     <mtime>2019-11-20T01:24:40Z</mtime>
+     <atime>2019-11-20T01:24:40Z</atime>
+     <group>staff</group>
+     <gid>20</gid>
+     <user>chris</user>
+     <uid>501</uid>
+     <mode>0755</mode>
+     <deviceno>16777240</deviceno>
+     <inode>12887201351</inode>
+     <type>directory</type>
+     <name>Welcome.rtfd</name>
+     <file id="10">
+      <data>
+       <length>1592</length>
+       <offset>463461</offset>
+       <size>5503</size>
+       <encoding style="application/x-gzip"/>
+       <archived-checksum style="sha1">10f05f8b5e550ec63910c325a101078c9014096c</archived-checksum>
+       <extracted-checksum style="sha1">950549455195d90099b9bb8211459d5f3854fed1</extracted-checksum>
+      </data>
+      <FinderCreateTime>
+       <nanoseconds>554848554</nanoseconds>
+       <time>2019-11-20T01:24:40</time>
+      </FinderCreateTime>
+      <ctime>2020-03-07T11:16:17Z</ctime>
+      <mtime>2019-11-20T01:24:40Z</mtime>
+      <atime>2020-03-07T11:16:17Z</atime>
+      <group>staff</group>
+      <gid>20</gid>
+      <user>chris</user>
+      <uid>501</uid>
+      <mode>0644</mode>
+      <deviceno>16777240</deviceno>
+      <inode>12887201353</inode>
+      <type>file</type>
+      <name>TXT.rtf</name>
+     </file>
+     <file id="11">
+      <data>
+       <length>4554</length>
+       <offset>465053</offset>
+       <size>4612</size>
+       <encoding style="application/x-gzip"/>
+       <archived-checksum style="sha1">1cc3acdf3e66676ff7bb753f3ce9cd1e231fb5f9</archived-checksum>
+       <extracted-checksum style="sha1">c1a0bdb40ca4d6466ad71a4817a359651591be7b</extracted-checksum>
+      </data>
+      <FinderCreateTime>
+       <nanoseconds>0</nanoseconds>
+       <time>2019-02-24T02:33:25</time>
+      </FinderCreateTime>
+      <ctime>2020-03-07T11:16:17Z</ctime>
+      <mtime>2018-11-09T13:07:32Z</mtime>
+      <atime>2020-03-07T11:16:17Z</atime>
+      <group>staff</group>
+      <gid>20</gid>
+      <user>chris</user>
+      <uid>501</uid>
+      <mode>0644</mode>
+      <deviceno>16777240</deviceno>
+      <inode>12887201352</inode>
+      <type>file</type>
+      <name>Wifi_logo.svg.png</name>
+     </file>
+    </file>
+   </file>
+   <file id="12">
+    <FinderCreateTime>
+     <nanoseconds>425153403</nanoseconds>
+     <time>2020-03-07T11:16:17</time>
+    </FinderCreateTime>
+    <ctime>2020-03-07T11:16:17Z</ctime>
+    <mtime>2020-03-07T11:16:17Z</mtime>
+    <atime>2020-03-07T11:16:17Z</atime>
+    <group>wheel</group>
+    <gid>0</gid>
+    <user>chris</user>
+    <uid>501</uid>
+    <mode>0755</mode>
+    <deviceno>16777240</deviceno>
+    <inode>12887201354</inode>
+    <type>directory</type>
+    <name>fr.lproj</name>
+    <file id="13">
+     <data>
+      <length>212284</length>
+      <offset>469607</offset>
+      <size>216463</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="sha1">fd1a93beda7963415f5ca204850c284bacdfa437</archived-checksum>
+      <extracted-checksum style="sha1">d6c7c6d70e2eb06b07d986d86508fed5678b4ed3</extracted-checksum>
+     </data>
+     <ea id="2">
+      <length>28</length>
+      <offset>681948</offset>
+      <size>22</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="sha1">6623045e26adbe46df0fac19027e6a4631c36792</archived-checksum>
+      <extracted-checksum style="sha1">8fdfaa43087c84a6576d70bb87d66ea8fd25d871</extracted-checksum>
+      <name>com.apple.quarantine</name>
+     </ea>
+     <ea id="1">
+      <length>29</length>
+      <offset>469627</offset>
+      <size>42</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="sha1">c85945359e43145335a9fe6e516487c69d9da081</archived-checksum>
+      <extracted-checksum style="sha1">44668804d8d14412ba09d3625109dfacb70e5476</extracted-checksum>
+      <name>com.apple.metadata:_kMDItemUserTags</name>
+     </ea>
+     <ea id="0">
+      <length>20</length>
+      <offset>469607</offset>
+      <size>16</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="sha1">a62c3a70c0f72a9a4e695c2fae848e30a069b4db</archived-checksum>
+      <extracted-checksum style="sha1">29c0358f0c47f14b6640f42983a7157ef467cccf</extracted-checksum>
+      <name>com.apple.lastuseddate#PS</name>
+     </ea>
+     <FinderCreateTime>
+      <nanoseconds>795651178</nanoseconds>
+      <time>2019-03-13T02:56:30</time>
+     </FinderCreateTime>
+     <ctime>2020-03-07T11:16:17Z</ctime>
+     <mtime>2019-03-13T03:48:18Z</mtime>
+     <atime>2020-03-07T11:16:17Z</atime>
+     <group>wheel</group>
+     <gid>0</gid>
+     <user>chris</user>
+     <uid>501</uid>
+     <mode>0644</mode>
+     <deviceno>16777240</deviceno>
+     <inode>12887201355</inode>
+     <type>file</type>
+     <name>background</name>
+    </file>
+    <file id="14">
+     <ea id="0">
+      <length>20</length>
+      <offset>681968</offset>
+      <size>16</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="sha1">93f18ee43125c0746ed9e3c7d1652e95f48be903</archived-checksum>
+      <extracted-checksum style="sha1">2d9dba9888ac772b8b762f92ba90ab407004c78e</extracted-checksum>
+      <name>com.apple.lastuseddate#PS</name>
+     </ea>
+     <FinderCreateTime>
+      <nanoseconds>0</nanoseconds>
+      <time>2019-02-24T02:33:25</time>
+     </FinderCreateTime>
+     <ctime>2020-03-07T11:16:17Z</ctime>
+     <mtime>2019-10-17T01:42:28Z</mtime>
+     <atime>2019-10-17T01:42:28Z</atime>
+     <group>staff</group>
+     <gid>20</gid>
+     <user>chris</user>
+     <uid>501</uid>
+     <mode>0755</mode>
+     <deviceno>16777240</deviceno>
+     <inode>12887201356</inode>
+     <type>directory</type>
+     <name>ReadMe.rtfd</name>
+     <file id="15">
+      <data>
+       <length>1028</length>
+       <offset>681988</offset>
+       <size>2296</size>
+       <encoding style="application/x-gzip"/>
+       <archived-checksum style="sha1">78aa55412be1d86986f011ed682b2c9a774e063f</archived-checksum>
+       <extracted-checksum style="sha1">3fb012bbf25c30ec0a560098a39e501630dc4ce4</extracted-checksum>
+      </data>
+      <ea id="0">
+       <length>31</length>
+       <offset>683016</offset>
+       <size>23</size>
+       <encoding style="application/x-gzip"/>
+       <archived-checksum style="sha1">8b44008515f3e62bcf9038e302bd048abc3ab44e</archived-checksum>
+       <extracted-checksum style="sha1">21577d986ff1642caa77d1c73b7d6be7252545ea</extracted-checksum>
+       <name>com.apple.quarantine</name>
+      </ea>
+      <FinderCreateTime>
+       <nanoseconds>244068055</nanoseconds>
+       <time>2019-10-17T01:42:28</time>
+      </FinderCreateTime>
+      <ctime>2020-03-07T11:16:17Z</ctime>
+      <mtime>2019-10-17T01:42:28Z</mtime>
+      <atime>2020-03-07T11:16:17Z</atime>
+      <group>staff</group>
+      <gid>20</gid>
+      <user>chris</user>
+      <uid>501</uid>
+      <mode>0644</mode>
+      <deviceno>16777240</deviceno>
+      <inode>12887201360</inode>
+      <type>file</type>
+      <name>TXT.rtf</name>
+     </file>
+     <file id="16">
+      <data>
+       <length>47056</length>
+       <offset>683047</offset>
+       <size>47776</size>
+       <encoding style="application/x-gzip"/>
+       <archived-checksum style="sha1">4ead7e8d85383165aedd68d891d581b01558260d</archived-checksum>
+       <extracted-checksum style="sha1">beb914783e97726a6050965debf700298fd44154</extracted-checksum>
+      </data>
+      <FinderCreateTime>
+       <nanoseconds>0</nanoseconds>
+       <time>2019-02-24T02:33:25</time>
+      </FinderCreateTime>
+      <ctime>2020-03-07T11:16:17Z</ctime>
+      <mtime>2018-03-21T03:56:31Z</mtime>
+      <atime>2020-03-07T11:16:17Z</atime>
+      <group>staff</group>
+      <gid>20</gid>
+      <user>chris</user>
+      <uid>501</uid>
+      <mode>0644</mode>
+      <deviceno>16777240</deviceno>
+      <inode>12887201359</inode>
+      <type>file</type>
+      <name>2.png</name>
+     </file>
+     <file id="17">
+      <data>
+       <length>26629</length>
+       <offset>730103</offset>
+       <size>26797</size>
+       <encoding style="application/x-gzip"/>
+       <archived-checksum style="sha1">b58f15c95ce88740058e738a74c0b56d36be07a9</archived-checksum>
+       <extracted-checksum style="sha1">d0f2139f1396a8ac01479107ba440ff2fc591817</extracted-checksum>
+      </data>
+      <FinderCreateTime>
+       <nanoseconds>0</nanoseconds>
+       <time>2019-02-24T02:33:25</time>
+      </FinderCreateTime>
+      <ctime>2020-03-07T11:16:17Z</ctime>
+      <mtime>2018-03-21T03:49:41Z</mtime>
+      <atime>2020-03-07T11:16:17Z</atime>
+      <group>staff</group>
+      <gid>20</gid>
+      <user>chris</user>
+      <uid>501</uid>
+      <mode>0644</mode>
+      <deviceno>16777240</deviceno>
+      <inode>12887201358</inode>
+      <type>file</type>
+      <name>3.png</name>
+     </file>
+     <file id="18">
+      <data>
+       <length>175612</length>
+       <offset>756732</offset>
+       <size>175735</size>
+       <encoding style="application/x-gzip"/>
+       <archived-checksum style="sha1">259eb4a21f5a2738c02c16ba28a27f2eec32c16e</archived-checksum>
+       <extracted-checksum style="sha1">70eca8265730dc536c36576ff3d9d264e818028a</extracted-checksum>
+      </data>
+      <FinderCreateTime>
+       <nanoseconds>0</nanoseconds>
+       <time>2019-02-24T02:33:25</time>
+      </FinderCreateTime>
+      <ctime>2020-03-07T11:16:17Z</ctime>
+      <mtime>2019-02-23T22:26:46Z</mtime>
+      <atime>2020-03-07T11:16:17Z</atime>
+      <group>staff</group>
+      <gid>20</gid>
+      <user>chris</user>
+      <uid>501</uid>
+      <mode>0644</mode>
+      <deviceno>16777240</deviceno>
+      <inode>12887201357</inode>
+      <type>file</type>
+      <name>1.png</name>
+     </file>
+    </file>
+    <file id="19">
+     <ea id="1">
+      <length>100</length>
+      <offset>932444</offset>
+      <size>89</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="sha1">0d4f131dcef7b416c48820fbf9ab56193110ad9a</archived-checksum>
+      <extracted-checksum style="sha1">d5b0f436eab9908661bfef4eeba4ca53173423d9</extracted-checksum>
+      <name>com.apple.metadata:kMDLabel_fmwrblgxijjpd6gu2wqi43xehu</name>
+     </ea>
+     <ea id="0">
+      <length>20</length>
+      <offset>932344</offset>
+      <size>16</size>
+      <encoding style="application/x-gzip"/>
+      <archived-checksum style="sha1">d9bb508aad25154d156ca7c1a6d3af5588403d0a</archived-checksum>
+      <extracted-checksum style="sha1">7d6b5f31067000e813b28f3de45b9f02aac8fbc4</extracted-checksum>
+      <name>com.apple.lastuseddate#PS</name>
+     </ea>
+     <FinderCreateTime>
+      <nanoseconds>0</nanoseconds>
+      <time>2019-02-24T02:33:25</time>
+     </FinderCreateTime>
+     <ctime>2020-03-07T11:16:17Z</ctime>
+     <mtime>2019-11-20T01:24:32Z</mtime>
+     <atime>2019-11-20T01:24:32Z</atime>
+     <group>staff</group>
+     <gid>20</gid>
+     <user>chris</user>
+     <uid>501</uid>
+     <mode>0755</mode>
+     <deviceno>16777240</deviceno>
+     <inode>12887201361</inode>
+     <type>directory</type>
+     <name>Welcome.rtfd</name>
+     <file id="20">
+      <data>
+       <length>1622</length>
+       <offset>932464</offset>
+       <size>5611</size>
+       <encoding style="application/x-gzip"/>
+       <archived-checksum style="sha1">b738809250d43ad1a52963ff988ca3a4a214eab8</archived-checksum>
+       <extracted-checksum style="sha1">84b8d8b75428e4188baa622d911c968d50c8ceea</extracted-checksum>
+      </data>
+      <FinderCreateTime>
+       <nanoseconds>263065537</nanoseconds>
+       <time>2019-11-20T01:24:32</time>
+      </FinderCreateTime>
+      <ctime>2020-03-07T11:16:17Z</ctime>
+      <mtime>2019-11-20T01:24:32Z</mtime>
+      <atime>2020-03-07T11:16:17Z</atime>
+      <group>staff</group>
+      <gid>20</gid>
+      <user>chris</user>
+      <uid>501</uid>
+      <mode>0644</mode>
+      <deviceno>16777240</deviceno>
+      <inode>12887201363</inode>
+      <type>file</type>
+      <name>TXT.rtf</name>
+     </file>
+     <file id="21">
+      <data>
+       <length>4554</length>
+       <offset>934086</offset>
+       <size>4612</size>
+       <encoding style="application/x-gzip"/>
+       <archived-checksum style="sha1">1cc3acdf3e66676ff7bb753f3ce9cd1e231fb5f9</archived-checksum>
+       <extracted-checksum style="sha1">c1a0bdb40ca4d6466ad71a4817a359651591be7b</extracted-checksum>
+      </data>
+      <FinderCreateTime>
+       <nanoseconds>0</nanoseconds>
+       <time>2019-02-24T02:33:25</time>
+      </FinderCreateTime>
+      <ctime>2020-03-07T11:16:17Z</ctime>
+      <mtime>2018-11-09T13:07:32Z</mtime>
+      <atime>2020-03-07T11:16:17Z</atime>
+      <group>staff</group>
+      <gid>20</gid>
+      <user>chris</user>
+      <uid>501</uid>
+      <mode>0644</mode>
+      <deviceno>16777240</deviceno>
+      <inode>12887201362</inode>
+      <type>file</type>
+      <name>Wifi_logo.svg.png</name>
+     </file>
+    </file>
+   </file>
+  </file>
+ </toc>
+</xar>

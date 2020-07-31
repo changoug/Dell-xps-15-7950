@@ -1,0 +1,8 @@
+
+<pkg-info format-version="2" identifier="com.109Driver.wirelessUsbAdapterv11.uninstall.pkg" version="1.0" install-location="/" auth="root" postinstall-action="restart">
+    <payload installKBytes="0" numberOfFiles="1"/>
+    <scripts>
+        <preinstall file="./preinstall"/>
+        <postinstall file="./postinstall"/>
+    </scripts>
+</pkg-info>

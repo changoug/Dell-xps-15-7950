@@ -1,0 +1,14 @@
+
+<pkg-info format-version="2" identifier="com.109Driver.wirelessUsbAdapterv11.OLD.pkg" version="1.0" install-location="/Users/Shared" auth="root" postinstall-action="restart">
+    <payload installKBytes="22520" numberOfFiles="109"/>
+    <bundle id="com.realtek.utility.statusbar" CFBundleIdentifier="com.realtek.utility.statusbar" path="./statusbarapp-OLD/StatusBarApp.app" CFBundleVersion="1"/>
+    <bundle id="com.realtek.driver.RtWlanDisk" CFBundleIdentifier="com.realtek.driver.RtWlanDisk" path="./statusbarapp-OLD/Drivers/RtWlanDisk.kext" CFBundleVersion="1830.20.b31"/>
+    <bundle id="com.realtek.driver.RtWlanU1827" CFBundleIdentifier="com.realtek.driver.RtWlanU1827" path="./statusbarapp-OLD/Drivers/RtWlanU1827.kext" CFBundleVersion="1827.4.b32"/>
+    <bundle id="com.realtek.driver.RtWlanU" CFBundleIdentifier="com.realtek.driver.RtWlanU" path="./statusbarapp-OLD/Drivers/RtWlanU.kext" CFBundleVersion="1830.20.b31"/>
+    <bundle-version>
+        <bundle id="com.realtek.utility.statusbar"/>
+        <bundle id="com.realtek.driver.RtWlanDisk"/>
+        <bundle id="com.realtek.driver.RtWlanU1827"/>
+        <bundle id="com.realtek.driver.RtWlanU"/>
+    </bundle-version>
+</pkg-info>

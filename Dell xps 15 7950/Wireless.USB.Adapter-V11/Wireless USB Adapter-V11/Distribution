@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<installer-script minSpecVersion="1.000000" authoringTool="com.apple.PackageMaker" authoringToolVersion="3.0.7" authoringToolBuild="203">
+    <title>Wireless USB Adapter-V11</title>
+    <options customize="always" allow-external-scripts="no"/>
+    <domains enable_anywhere="true"/>
+    <background file="background" alignment="center" scaling="tofit"/>
+    <background-darkAqua file="background" alignment="center" scaling="tofit"/>
+    <welcome file="Welcome.rtfd"/>
+    <readme file="ReadMe.rtfd"/>
+    <choices-outline>
+        <line choice="choice41">
+            <line choice="choice44"/>
+        </line>
+        <line choice="choice45"/>
+    </choices-outline>
+    <choice id="choice41" title="Wireless USB Adapter  " description="Install ➔ /System/Library/Extensions RtWlanU1827.kext, RtWlanU.kext, RtWlanDisk.kext  Install ➔ /Library/Applications Support /WLAN Install ➔ /Library/LaunchAgents /Wlan.Software.plist Install ➔ /Library/LaunchDaemons/Wlan.SoftwareDaemon.plist" start_selected="false">
+        <pkg-ref id="com.109Driver.wirelessUsbAdapterv11.statusbarapp.pkg"/>
+    </choice>
+    <choice id="choice44" title="Wireless Drivers" start_selected="false" start_visible="false">
+        <pkg-ref id="com.109Driver.wirelessUsbAdapterv11.Drivers.pkg"/>
+        <pkg-ref id="com.109Driver.wirelessUsbAdapterv11.OLD.pkg"/>
+    </choice>
+    <choice id="choice45" title="Uninstall" description="Uninstall ➔ /System/Library/Extensions RtWlanU1827.kext, RtWlanU.kext, RtWlanDisk.kext   Uninstall ➔ /Library/Applications Support /WLAN Uninstall ➔ /Library/LaunchAgents /Wlan.Software.plist Uninstall ➔ /Library/LaunchDaemons/Wlan.SoftwareDaemon.plist" start_selected="false">
+        <pkg-ref id="com.109Driver.wirelessUsbAdapterv11.uninstall.pkg"/>
+    </choice>
+    <pkg-ref id="com.109Driver.wirelessUsbAdapterv11.statusbarapp.pkg" installKBytes="7228" version="1.0" auth="Root" onConclusion="RequireRestart">#statusbarapp.pkg</pkg-ref>
+    <pkg-ref id="com.109Driver.wirelessUsbAdapterv11.Drivers.pkg" installKBytes="16092" version="1.0" auth="Root" onConclusion="RequireRestart">#drivers.pkg</pkg-ref>
+    <pkg-ref id="com.109Driver.wirelessUsbAdapterv11.OLD.pkg" installKBytes="22520" version="1.0" auth="Root" onConclusion="RequireRestart">#old.pkg</pkg-ref>
+    <pkg-ref id="com.109Driver.wirelessUsbAdapterv11.uninstall.pkg" installKBytes="0" version="1.0" auth="Root" onConclusion="RequireRestart">#uninstall.pkg</pkg-ref>
+</installer-script>

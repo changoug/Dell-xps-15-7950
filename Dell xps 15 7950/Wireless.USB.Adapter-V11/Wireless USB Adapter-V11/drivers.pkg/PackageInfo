@@ -1,0 +1,16 @@
+
+<pkg-info format-version="2" identifier="com.109Driver.wirelessUsbAdapterv11.Drivers.pkg" version="1.0" install-location="/Users/Shared" auth="root" postinstall-action="restart">
+    <payload installKBytes="16092" numberOfFiles="23"/>
+    <scripts>
+        <preinstall file="./preinstall"/>
+        <postinstall file="./postinstall"/>
+    </scripts>
+    <bundle id="com.realtek.driver.RtWlanDisk" CFBundleIdentifier="com.realtek.driver.RtWlanDisk" path="./RtWlanDisk.kext" CFBundleVersion="1830.32.b15"/>
+    <bundle id="com.realtek.driver.RtWlanU1827" CFBundleIdentifier="com.realtek.driver.RtWlanU1827" path="./RtWlanU1827.kext" CFBundleVersion="1827.4.b36"/>
+    <bundle id="com.realtek.driver.RtWlanU" CFBundleIdentifier="com.realtek.driver.RtWlanU" path="./RtWlanU.kext" CFBundleVersion="1830.32.b15"/>
+    <bundle-version>
+        <bundle id="com.realtek.driver.RtWlanDisk"/>
+        <bundle id="com.realtek.driver.RtWlanU1827"/>
+        <bundle id="com.realtek.driver.RtWlanU"/>
+    </bundle-version>
+</pkg-info>
